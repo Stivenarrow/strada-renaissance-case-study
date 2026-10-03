@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Executables and packages
+*.exe
+*.msi
+*.zip
+*.7z
+
+# Scientific / legacy data
+*.xls
+*.xlsx
+*.csv
+
+# Original or derived application source
+STRADA_Software.py
+STRADA.py
+STRADA_GUI.py
+STRADA_PDF.py
+VULNERABILITA.*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.log
